@@ -4,7 +4,7 @@ Track your daily streak and monitor your newsletter reading progress.
 
 ## Description
 
-Streaks - The News is an application that allows you to track your daily reading streak and monitor your newsletter reading progress. The project is developed using modern technologies to ensure a smooth and intuitive experience.
+Streaks is an application that allows you to track your daily reading streak and monitor your newsletter reading progress. The project is developed using modern technologies to ensure a smooth and intuitive experience.
 
 ## Technologies
 
