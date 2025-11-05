@@ -1,4 +1,4 @@
-# Streaks - The News
+# Streaks
 
 Track your daily streak and monitor your newsletter reading progress.
 
@@ -31,7 +31,7 @@ To run the project locally, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nicolasbaldoino/streaks-the-news.git
+   git clone https://github.com/nicolasbaldoino/streaks.git
    ```
 2. Navigate to the project directory:
    ```bash
