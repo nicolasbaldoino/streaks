@@ -35,7 +35,7 @@ To run the project locally, follow the steps below:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd streaks-the-news
+   cd streaks
    ```
 3. Install dependencies:
    ```bash
